@@ -20,7 +20,9 @@
 
 
 # Resultados
+
 > En esta captura se muestra que el cubo puede rotar.
+
 ![Captura de pantalla (1462) png](https://user-images.githubusercontent.com/71051834/143995890-24576a35-7c0f-4bd8-b61e-fab9f3af59a8.jpg)
 ![Captura de pantalla (1463) png](https://user-images.githubusercontent.com/71051834/143995891-084f6b20-b228-4e25-a41e-ad5080cbf311.jpg)
 
